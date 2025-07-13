@@ -3,7 +3,7 @@
 ![CMFV](image/figure.png)
 ## 📦 Download
 
-To reproduce the results in the paper, please download our pre-trained models from [this shared folder](https://drive.google.com/drive/folders/1gU_92qYOAVcifI2H8bcxBzf4VPZtPINc?usp=sharing).
+To reproduce the results in the paper, please download the dataset and pre-trained models from [this shared folder](https://drive.google.com/drive/folders/1gU_92qYOAVcifI2H8bcxBzf4VPZtPINc?usp=sharing).
 
 Then organize them in the following structure:
 

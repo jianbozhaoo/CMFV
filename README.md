@@ -20,3 +20,13 @@ CMFV
 ├── train.sh
 └── utils.py
 ```
+🛠️ Environment
+
+Our experiments are conducted using PyTorch 2.0.0 on a single NVIDIA RTX 4090 GPU (24 GB). 
+Install dependencies with:
+pip install torch==2.0.0
+pip install torch-geometric
+pip install pytorch-pretrained-bert
+pip install texar-pytorch
+pip install scikit-learn
+pip install pandas

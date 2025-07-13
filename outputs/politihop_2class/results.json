@@ -1,0 +1,51 @@
+{
+ "total_steps": 1170.0,
+ "best_accuracy": {
+  "data/politihop/original/politihop_test_adv-2class.json": 0.894736842105263,
+  "data/politihop/symmetric/Symmetric_PolitiHop_ShareEvi.json": 0.6900584795321637,
+  "data/politihop/symmetric/Symmetric_PolitiHop.json": 0.6842105263157894
+ },
+ "best_step": {
+  "data/politihop/original/politihop_test_adv-2class.json": 702,
+  "data/politihop/symmetric/Symmetric_PolitiHop_ShareEvi.json": 351,
+  "data/politihop/symmetric/Symmetric_PolitiHop.json": 351
+ },
+ "accuracy": {
+  "data/politihop/original/politihop_test_adv-2class.json": [
+   0.8771929824561403,
+   0.8654970760233918,
+   0.8011695906432748,
+   0.8830409356725146,
+   0.8830409356725146,
+   0.894736842105263,
+   0.8888888888888888,
+   0.8830409356725146,
+   0.8830409356725146,
+   0.8830409356725146
+  ],
+  "data/politihop/symmetric/Symmetric_PolitiHop_ShareEvi.json": [
+   0.5087719298245614,
+   0.5643274853801169,
+   0.6900584795321637,
+   0.5438596491228069,
+   0.5467836257309941,
+   0.5760233918128654,
+   0.5760233918128654,
+   0.5497076023391813,
+   0.5497076023391813,
+   0.5497076023391813
+  ],
+  "data/politihop/symmetric/Symmetric_PolitiHop.json": [
+   0.5087719298245614,
+   0.5497076023391813,
+   0.6842105263157894,
+   0.5438596491228069,
+   0.5467836257309941,
+   0.5760233918128654,
+   0.5760233918128654,
+   0.5409356725146198,
+   0.5409356725146198,
+   0.5409356725146198
+  ]
+ }
+}

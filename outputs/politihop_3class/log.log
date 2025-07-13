@@ -1,0 +1,542 @@
+2025-06-11 17:01:43,403 [INFO] load data...
+2025-06-11 17:01:43,403 [INFO] loading vocabulary file pretrained_models/BERT-Pair/vocab.txt
+2025-06-11 17:01:48,281 [INFO] loading vocabulary file pretrained_models/BERT-Pair/vocab.txt
+2025-06-11 17:01:49,901 [INFO] loading archive file pretrained_models/BERT-Pair
+2025-06-11 17:01:49,902 [INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2025-06-11 17:01:54,902 [INFO] loading vocabulary file pretrained_models/BERT-Pair/vocab.txt
+2025-06-11 17:01:57,213 [INFO] loading archive file pretrained_models/BERT-Pair
+2025-06-11 17:01:57,213 [INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2025-06-11 17:02:03,089 [INFO] loading vocabulary file pretrained_models/BERT-Pair/vocab.txt
+2025-06-11 17:02:04,319 [INFO] loading archive file pretrained_models/BERT-Pair
+2025-06-11 17:02:04,319 [INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2025-06-11 17:02:08,821 [INFO] loading vocabulary file pretrained_models/BERT-Pair/vocab.txt
+2025-06-11 17:02:10,903 [INFO] loading archive file pretrained_models/BERT-Pair
+2025-06-11 17:02:10,904 [INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2025-06-11 17:02:16,645 [INFO] loading vocabulary file pretrained_models/BERT-Pair/vocab.txt
+2025-06-11 17:02:17,617 [INFO] loading archive file pretrained_models/BERT-Pair
+2025-06-11 17:02:17,617 [INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2025-06-11 17:02:22,074 [INFO] loading vocabulary file pretrained_models/BERT-Pair/vocab.txt
+2025-06-11 17:02:24,087 [INFO] loading archive file pretrained_models/BERT-Pair
+2025-06-11 17:02:24,088 [INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2025-06-11 17:02:29,796 [INFO] loading vocabulary file pretrained_models/BERT-Pair/vocab.txt
+2025-06-11 17:02:31,756 [INFO] loading archive file pretrained_models/BERT-Pair
+2025-06-11 17:02:31,757 [INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2025-06-11 17:02:37,522 [INFO] loading vocabulary file pretrained_models/BERT-Pair/vocab.txt
+2025-06-11 17:02:39,489 [INFO] loading archive file pretrained_models/BERT-Pair
+2025-06-11 17:02:39,489 [INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2025-06-11 17:02:45,136 [INFO] loading archive file pretrained_models/BERT-Pair
+2025-06-11 17:02:45,136 [INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2025-06-11 17:02:46,569 [INFO] start train...
+2025-06-11 17:02:46,570 [INFO] loading archive file pretrained_models/BERT-Pair
+2025-06-11 17:02:46,570 [INFO] Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2025-06-11 17:03:51,484 [INFO] epoch: 0, Train acc: 0.613176, total loss: 3.468607
+
+2025-06-11 17:03:56,956 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.695035, total loss: 3.276798
+
+2025-06-11 17:04:05,147 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.750000, total loss: 3.131783
+
+2025-06-11 17:04:10,977 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.695035, total loss: 3.277014
+
+2025-06-11 17:04:19,245 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.750000, total loss: 3.089652
+
+2025-06-11 17:04:24,800 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.695035, total loss: 3.276948
+
+2025-06-11 17:04:32,897 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.750000, total loss: 3.089643
+
+2025-06-11 17:04:41,072 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.750000, total loss: 3.089711
+
+2025-06-11 17:04:48,845 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.750000, total loss: 3.089706
+
+2025-06-11 17:05:39,975 [INFO] epoch: 1, Train acc: 0.662162, total loss: 3.173996
+
+2025-06-11 17:05:45,368 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.687943, total loss: 3.206135
+
+2025-06-11 17:05:53,051 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.750000, total loss: 3.029524
+
+2025-06-11 17:05:58,086 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.687943, total loss: 3.206633
+
+2025-06-11 17:06:05,554 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.750000, total loss: 2.987542
+
+2025-06-11 17:06:10,470 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.687943, total loss: 3.206499
+
+2025-06-11 17:06:17,896 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.750000, total loss: 2.987833
+
+2025-06-11 17:06:25,161 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.750000, total loss: 2.988275
+
+2025-06-11 17:06:32,340 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.750000, total loss: 2.988183
+
+2025-06-11 17:07:22,807 [INFO] epoch: 2, Train acc: 0.739865, total loss: 2.979419
+
+2025-06-11 17:07:28,055 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.617021, total loss: 3.208474
+
+2025-06-11 17:07:35,575 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.765000, total loss: 2.957385
+
+2025-06-11 17:07:41,107 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.609929, total loss: 3.209902
+
+2025-06-11 17:07:48,374 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.760000, total loss: 2.909301
+
+2025-06-11 17:07:53,848 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.609929, total loss: 3.209364
+
+2025-06-11 17:08:00,991 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.755000, total loss: 2.910043
+
+2025-06-11 17:08:08,710 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.755000, total loss: 2.911215
+
+2025-06-11 17:08:16,507 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.755000, total loss: 2.910923
+
+2025-06-11 17:09:07,943 [INFO] epoch: 3, Train acc: 0.832770, total loss: 2.720782
+
+2025-06-11 17:09:13,147 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.602837, total loss: 3.266744
+
+2025-06-11 17:09:20,533 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.770000, total loss: 2.905436
+
+2025-06-11 17:09:26,165 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.602837, total loss: 3.271086
+
+2025-06-11 17:09:33,522 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.770000, total loss: 2.847705
+
+2025-06-11 17:09:39,215 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.602837, total loss: 3.269026
+
+2025-06-11 17:09:46,553 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.770000, total loss: 2.850478
+
+2025-06-11 17:09:54,578 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.770000, total loss: 2.853829
+
+2025-06-11 17:10:02,631 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.770000, total loss: 2.852937
+
+2025-06-11 17:10:54,059 [INFO] epoch: 4, Train acc: 0.873311, total loss: 2.468974
+
+2025-06-11 17:10:59,467 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.609929, total loss: 3.281492
+
+2025-06-11 17:11:07,185 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.775000, total loss: 2.817266
+
+2025-06-11 17:11:13,146 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.617021, total loss: 3.293467
+
+2025-06-11 17:11:20,607 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.780000, total loss: 2.771009
+
+2025-06-11 17:11:26,274 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.609929, total loss: 3.285299
+
+2025-06-11 17:11:33,594 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.780000, total loss: 2.778189
+
+2025-06-11 17:11:41,419 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.775000, total loss: 2.786074
+
+2025-06-11 17:11:49,444 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.775000, total loss: 2.783428
+
+2025-06-11 17:12:40,411 [INFO] epoch: 5, Train acc: 0.937500, total loss: 2.261612
+
+2025-06-11 17:12:45,605 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.602837, total loss: 3.272537
+
+2025-06-11 17:12:53,163 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.805000, total loss: 2.701678
+
+2025-06-11 17:12:58,688 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.609929, total loss: 3.297823
+
+2025-06-11 17:13:05,895 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.775000, total loss: 2.688380
+
+2025-06-11 17:13:10,732 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.602837, total loss: 3.277330
+
+2025-06-11 17:13:17,879 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.775000, total loss: 2.697770
+
+2025-06-11 17:13:25,124 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.770000, total loss: 2.713728
+
+2025-06-11 17:13:32,187 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.770000, total loss: 2.711270
+
+2025-06-11 17:14:22,123 [INFO] epoch: 6, Train acc: 0.962838, total loss: 2.104931
+
+2025-06-11 17:14:27,385 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.617021, total loss: 3.266300
+
+2025-06-11 17:14:34,823 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.790000, total loss: 2.662174
+
+2025-06-11 17:14:39,709 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.595745, total loss: 3.296939
+
+2025-06-11 17:14:46,908 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.780000, total loss: 2.653898
+
+2025-06-11 17:14:51,756 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.609929, total loss: 3.263207
+
+2025-06-11 17:14:59,056 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.775000, total loss: 2.660373
+
+2025-06-11 17:15:06,384 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.775000, total loss: 2.680928
+
+2025-06-11 17:15:13,732 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.775000, total loss: 2.678952
+
+2025-06-11 17:16:04,003 [INFO] epoch: 7, Train acc: 0.967905, total loss: 2.013401
+
+2025-06-11 17:16:09,397 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.609929, total loss: 3.232364
+
+2025-06-11 17:16:16,844 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.785000, total loss: 2.662577
+
+2025-06-11 17:16:21,696 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.602837, total loss: 3.275681
+
+2025-06-11 17:16:28,907 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.775000, total loss: 2.637498
+
+2025-06-11 17:16:33,836 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.609929, total loss: 3.228890
+
+2025-06-11 17:16:40,976 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.775000, total loss: 2.655404
+
+2025-06-11 17:16:48,073 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.775000, total loss: 2.671124
+
+2025-06-11 17:16:55,135 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.775000, total loss: 2.669391
+
+2025-06-11 17:17:45,554 [INFO] epoch: 8, Train acc: 0.979730, total loss: 1.949718
+
+2025-06-11 17:17:50,903 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.617021, total loss: 3.253536
+
+2025-06-11 17:17:58,626 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.790000, total loss: 2.646933
+
+2025-06-11 17:18:03,624 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.595745, total loss: 3.286930
+
+2025-06-11 17:18:10,948 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.780000, total loss: 2.628738
+
+2025-06-11 17:18:15,808 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.617021, total loss: 3.243378
+
+2025-06-11 17:18:22,977 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.780000, total loss: 2.643192
+
+2025-06-11 17:18:30,429 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.775000, total loss: 2.659670
+
+2025-06-11 17:18:37,652 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.775000, total loss: 2.658241
+
+2025-06-11 17:19:27,542 [INFO] epoch: 9, Train acc: 0.981419, total loss: 1.910961
+
+2025-06-11 17:19:32,915 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.602837, total loss: 3.269397
+
+2025-06-11 17:19:40,729 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.790000, total loss: 2.635321
+
+2025-06-11 17:19:45,780 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.595745, total loss: 3.301791
+
+2025-06-11 17:19:53,380 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.785000, total loss: 2.623291
+
+2025-06-11 17:19:58,939 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.595745, total loss: 3.261643
+
+2025-06-11 17:20:06,249 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.780000, total loss: 2.634353
+
+2025-06-11 17:20:13,321 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.785000, total loss: 2.647731
+
+2025-06-11 17:20:21,154 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.785000, total loss: 2.648876
+
+2025-06-11 17:21:11,799 [INFO] epoch: 10, Train acc: 0.981419, total loss: 1.884495
+
+2025-06-11 17:21:17,199 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.602837, total loss: 3.275763
+
+2025-06-11 17:21:24,868 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.790000, total loss: 2.636686
+
+2025-06-11 17:21:29,871 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.595745, total loss: 3.307790
+
+2025-06-11 17:21:37,342 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.775000, total loss: 2.638470
+
+2025-06-11 17:21:42,375 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.609929, total loss: 3.269320
+
+2025-06-11 17:21:49,792 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.785000, total loss: 2.643808
+
+2025-06-11 17:21:57,690 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.770000, total loss: 2.661284
+
+2025-06-11 17:22:05,071 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.775000, total loss: 2.664620
+
+2025-06-11 17:22:55,502 [INFO] epoch: 11, Train acc: 0.986486, total loss: 1.848986
+
+2025-06-11 17:23:00,895 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.617021, total loss: 3.273755
+
+2025-06-11 17:23:08,534 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.775000, total loss: 2.652051
+
+2025-06-11 17:23:13,569 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.609929, total loss: 3.300759
+
+2025-06-11 17:23:21,067 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.775000, total loss: 2.648413
+
+2025-06-11 17:23:26,048 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.624113, total loss: 3.270462
+
+2025-06-11 17:23:33,436 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.775000, total loss: 2.648874
+
+2025-06-11 17:23:40,839 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.775000, total loss: 2.671333
+
+2025-06-11 17:23:48,169 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.770000, total loss: 2.673092
+
+2025-06-11 17:24:38,282 [INFO] epoch: 12, Train acc: 0.988176, total loss: 1.820509
+
+2025-06-11 17:24:43,539 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.602837, total loss: 3.304302
+
+2025-06-11 17:24:50,995 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.775000, total loss: 2.659655
+
+2025-06-11 17:24:55,940 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.595745, total loss: 3.340518
+
+2025-06-11 17:25:03,135 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.770000, total loss: 2.667216
+
+2025-06-11 17:25:08,081 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.617021, total loss: 3.299487
+
+2025-06-11 17:25:15,539 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.765000, total loss: 2.662602
+
+2025-06-11 17:25:22,577 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.770000, total loss: 2.684713
+
+2025-06-11 17:25:30,087 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.770000, total loss: 2.687813
+
+2025-06-11 17:26:21,325 [INFO] epoch: 13, Train acc: 0.988176, total loss: 1.806889
+
+2025-06-11 17:26:26,557 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.638298, total loss: 3.254596
+
+2025-06-11 17:26:34,049 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.790000, total loss: 2.665773
+
+2025-06-11 17:26:39,393 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.624113, total loss: 3.284964
+
+2025-06-11 17:26:46,617 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.770000, total loss: 2.651315
+
+2025-06-11 17:26:51,435 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.638298, total loss: 3.252098
+
+2025-06-11 17:26:58,706 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.770000, total loss: 2.663461
+
+2025-06-11 17:27:06,016 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.760000, total loss: 2.689444
+
+2025-06-11 17:27:13,174 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.760000, total loss: 2.687859
+
+2025-06-11 17:28:03,473 [INFO] epoch: 14, Train acc: 0.988176, total loss: 1.797338
+
+2025-06-11 17:28:08,667 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.624113, total loss: 3.306659
+
+2025-06-11 17:28:16,056 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.765000, total loss: 2.680884
+
+2025-06-11 17:28:21,061 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.617021, total loss: 3.340307
+
+2025-06-11 17:28:28,581 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.775000, total loss: 2.670380
+
+2025-06-11 17:28:33,642 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.617021, total loss: 3.303664
+
+2025-06-11 17:28:40,891 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.775000, total loss: 2.671159
+
+2025-06-11 17:28:48,262 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.765000, total loss: 2.692258
+
+2025-06-11 17:28:55,460 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.755000, total loss: 2.695161
+
+2025-06-11 17:29:45,928 [INFO] epoch: 15, Train acc: 0.988176, total loss: 1.790566
+
+2025-06-11 17:29:51,417 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.617021, total loss: 3.300743
+
+2025-06-11 17:29:58,867 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.780000, total loss: 2.661707
+
+2025-06-11 17:30:03,689 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.617021, total loss: 3.320851
+
+2025-06-11 17:30:10,852 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.780000, total loss: 2.661814
+
+2025-06-11 17:30:15,672 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.624113, total loss: 3.302610
+
+2025-06-11 17:30:23,009 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.775000, total loss: 2.663650
+
+2025-06-11 17:30:30,121 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.770000, total loss: 2.686182
+
+2025-06-11 17:30:37,206 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.775000, total loss: 2.688205
+
+2025-06-11 17:31:26,755 [INFO] epoch: 16, Train acc: 0.988176, total loss: 1.783296
+
+2025-06-11 17:31:31,959 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.624113, total loss: 3.307744
+
+2025-06-11 17:31:39,467 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.785000, total loss: 2.660397
+
+2025-06-11 17:31:44,475 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.624113, total loss: 3.341365
+
+2025-06-11 17:31:51,795 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.785000, total loss: 2.660628
+
+2025-06-11 17:31:56,662 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.631206, total loss: 3.305732
+
+2025-06-11 17:32:03,822 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.775000, total loss: 2.661978
+
+2025-06-11 17:32:10,921 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.770000, total loss: 2.680775
+
+2025-06-11 17:32:18,043 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.770000, total loss: 2.687060
+
+2025-06-11 17:33:08,175 [INFO] epoch: 17, Train acc: 0.988176, total loss: 1.777951
+
+2025-06-11 17:33:13,478 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.631206, total loss: 3.294946
+
+2025-06-11 17:33:20,890 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.775000, total loss: 2.667517
+
+2025-06-11 17:33:25,953 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.617021, total loss: 3.317687
+
+2025-06-11 17:33:33,455 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.785000, total loss: 2.658313
+
+2025-06-11 17:33:38,429 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.624113, total loss: 3.294615
+
+2025-06-11 17:33:45,722 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.775000, total loss: 2.663535
+
+2025-06-11 17:33:52,975 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.770000, total loss: 2.687661
+
+2025-06-11 17:34:00,299 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.770000, total loss: 2.687771
+
+2025-06-11 17:34:50,396 [INFO] epoch: 18, Train acc: 0.988176, total loss: 1.773836
+
+2025-06-11 17:34:55,679 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.631206, total loss: 3.300105
+
+2025-06-11 17:35:03,285 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.780000, total loss: 2.658372
+
+2025-06-11 17:35:08,259 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.617021, total loss: 3.329844
+
+2025-06-11 17:35:15,639 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.795000, total loss: 2.654064
+
+2025-06-11 17:35:21,221 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.631206, total loss: 3.299674
+
+2025-06-11 17:35:28,570 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.790000, total loss: 2.658324
+
+2025-06-11 17:35:36,442 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.780000, total loss: 2.677825
+
+2025-06-11 17:35:43,524 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.780000, total loss: 2.682308
+
+2025-06-11 17:36:33,527 [INFO] epoch: 19, Train acc: 0.988176, total loss: 1.768974
+
+2025-06-11 17:36:38,869 [INFO] data/politihop/original/politihop_valid_all.json Dev total acc: 0.631206, total loss: 3.301112
+
+2025-06-11 17:36:46,293 [INFO] data/politihop/original/politihop_test_all.json Dev total acc: 0.770000, total loss: 2.659933
+
+2025-06-11 17:36:51,238 [INFO] data/politihop/original/politihop_valid_adv.json Dev total acc: 0.617021, total loss: 3.324929
+
+2025-06-11 17:36:58,477 [INFO] data/politihop/original/politihop_test_adv.json Dev total acc: 0.790000, total loss: 2.654324
+
+2025-06-11 17:37:03,318 [INFO] data/politihop/original/politihop_valid_even.json Dev total acc: 0.631206, total loss: 3.301650
+
+2025-06-11 17:37:10,557 [INFO] data/politihop/original/politihop_test_even.json Dev total acc: 0.775000, total loss: 2.658957
+
+2025-06-11 17:37:17,713 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json Dev total acc: 0.775000, total loss: 2.678230
+
+2025-06-11 17:37:24,816 [INFO] data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json Dev total acc: 0.770000, total loss: 2.681858
+
+2025-06-11 17:37:24,817 [INFO] {
+ "data/politihop/original/politihop_valid_all.json": 0.6950354609929078,
+ "data/politihop/original/politihop_test_all.json": 0.805,
+ "data/politihop/original/politihop_valid_adv.json": 0.6950354609929078,
+ "data/politihop/original/politihop_test_adv.json": 0.795,
+ "data/politihop/original/politihop_valid_even.json": 0.6950354609929078,
+ "data/politihop/original/politihop_test_even.json": 0.79,
+ "data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json": 0.785,
+ "data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json": 0.785
+}
+2025-06-11 17:37:24,817 [INFO] {
+ "data/politihop/original/politihop_valid_all.json": 148,
+ "data/politihop/original/politihop_test_all.json": 888,
+ "data/politihop/original/politihop_valid_adv.json": 148,
+ "data/politihop/original/politihop_test_adv.json": 2812,
+ "data/politihop/original/politihop_valid_even.json": 148,
+ "data/politihop/original/politihop_test_even.json": 2812,
+ "data/politihop/original/Hard_PolitiHop_by_gpt-3.5.json": 1480,
+ "data/politihop/original/Hard_PolitiHop_by_gpt-4.0.json": 1480
+}
+2025-06-11 17:37:24,817 [INFO] total_steps: 2960

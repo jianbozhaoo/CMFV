@@ -1,5 +1,5 @@
 # Causal Debiasing for Multi-hop Fact Verification
-## Framework
+## CMFV Framework
 ![CMFV](image/figure.png)
 ## 📦 Download
 

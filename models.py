@@ -235,7 +235,7 @@ class CMFV(nn.Module):
         te_fusion = torch.log(1e-9 + torch.sigmoid(res_direct + res_claim + res))
         nde_final = torch.log(1e-9 + torch.sigmoid(res_direct.detach() + constant * torch.ones_like(res_claim) + constant * torch.ones_like(res)))
         nde_claim = torch.log(1e-9 + torch.sigmoid(res_claim.detach() + constant * torch.ones_like(res_direct) + constant * torch.ones_like(res)))
-        tie = te_fusion - lambda_val * nde_final + lambda_val * nde_claim
+        tie = te_fusion - lambda_val * nde_claim - lambda_val * nde_final
         return tie, te_fusion, nde_final, nde_claim
 
     
